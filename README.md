@@ -11,7 +11,7 @@ As we read, we are producing [notes about the book](https://r4ds.io/probintro).
 
 If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-probintro](https://rfordatascience.slack.com/archives/C05CP0TJ9T5) channel on Slack)!
 
-- [Cohort 1](https://docs.google.com/spreadsheets/d/15a5B9hVfxRf9cLEU52-v9AbYI98AEdBk1LAaW0Q6S4w/edit?usp=sharing) (started 2023-08-01, facilitated by William Parbury): [Tuesdays, 2:00 PM CST/CDT](https://www.timeanddate.com/worldclock/converter.html?iso=20230801T190000&p1=24&p2=136) | [meeting videos](https://www.youtube.com/playlist?list=PL3x6DOfs2NGgA54rXV2PHFjDGEGx9pZoW)
+- Cohort 1 (started 2023-08-01, only met 3 times): [meeting videos](https://www.youtube.com/playlist?list=PL3x6DOfs2NGgA54rXV2PHFjDGEGx9pZoW)
 
 <hr>
 
