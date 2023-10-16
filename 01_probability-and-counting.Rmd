@@ -13,12 +13,15 @@
 
 ### Cohort 1 {-}
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/0lzp6vZHTzA")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:39:09	Abdou:	https://www.edx.org/course/introduction-to-probability-0
+00:39:18	Abdou:	Might be also useful
 ```
 </details>
+
+`r knitr::include_url("https://www.youtube.com/embed/QoMwTfmHaYE")`
