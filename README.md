@@ -1,15 +1,15 @@
-# R4DS Introduction to Probability Book Club
+# DSLC Introduction to Probability Book Club
 
-Welcome to the R4DS Introduction to Probability Book Club!
+Welcome to the DSLC Introduction to Probability Book Club!
 
 We are working together to read [_Introduction to Probability_](https://projects.iq.harvard.edu/stat110/home) by Joe Blitzstein and Jessica Hwang (copyright 2019).
-If you would like a print version, please consider purchasing it using our [Amazon Affiliates link](https://amzn.to/3JbfmhF). All profits from purchases through that link go toward maintaining the R4DS Online Learning Community.
-Join the [#book_club-probintro](https://rfordatascience.slack.com/archives/C05CP0TJ9T5) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
-As we read, we are producing [notes about the book](https://r4ds.io/probintro).
+If you would like a print version, please consider purchasing it using our [Amazon Affiliates link](https://amzn.to/3JbfmhF). All profits from purchases through that link go toward maintaining the Data Science Learning Community.
+Join the [#book_club-probintro](https://dslcio.slack.com/archives/C05CP0TJ9T5) channel on the [DSLC Slack](https://dslc.io/join) to participate.
+As we read, we are producing [notes about the book](https://dslc.io/probintro).
 
 ## Meeting Schedule
 
-If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-probintro](https://rfordatascience.slack.com/archives/C05CP0TJ9T5) channel on Slack)!
+If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-probintro](https://dslcio.slack.com/archives/C05CP0TJ9T5) channel on Slack)!
 
 - Cohort 1 (started 2023-08-01, only met 3 times): [meeting videos](https://www.youtube.com/playlist?list=PL3x6DOfs2NGgA54rXV2PHFjDGEGx9pZoW)
 
@@ -40,7 +40,7 @@ Do these steps each time you present another chapter:
 10. When your PR has been accepted ("merged"), `usethis::pr_finish()` to close out your branch and prepare your local repository for future work.
 11. Now that your local copy is up-to-date with the main repo, you need to update your remote fork. Run `gert::git_push("origin")` or click the `Push` button on the `Git` tab of Rstudio.
 
-When your PR is checked into the main branch, the bookdown site will rebuild, adding your slides to [this site](https://r4ds.io/probintro).
+When your PR is checked into the main branch, the bookdown site will rebuild, adding your slides to [this site](https://dslc.io/probintro).
 
 
 ## Code of Conduct
